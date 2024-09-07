@@ -1,0 +1,3 @@
+Use a string to collect the number, then use a for loop to multiply each digit. 
+It's important to note that the initial value of the variable storing the answer should be 1, not 0. 
+This prevents continuously multiplying by 0, which would result in all answers being 0.
